@@ -748,8 +748,8 @@ input:focus{
 }
 
 #splash img{
-  width: 140px;
-  animation: splashPulse 1.4s ease-in-out infinite;
+  width: 190px;
+  animation: splashPulse 3.2s ease-in-out infinite;
   filter: drop-shadow(0 0 20px rgba(124,92,255,.8));
 }
 
