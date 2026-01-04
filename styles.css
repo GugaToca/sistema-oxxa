@@ -138,6 +138,7 @@ img{ max-width:100%; display:block; }
   height: 300%;
   object-fit: contain;
   filter: drop-shadow(0 0 12px rgba(124,92,255,.6));
+  margin-left: -24px;
 }
 
 .brand__name{ font-weight: 800; letter-spacing: .5px; }
